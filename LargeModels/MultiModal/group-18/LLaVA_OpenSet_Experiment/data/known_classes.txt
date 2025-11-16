@@ -1,0 +1,12 @@
+airplane
+bicycle
+boat
+bus
+car
+cat
+dog
+laptop
+person
+train
+truck
+tv
